@@ -1,2 +1,0 @@
-# enchant-samples
-enchant.jsのsample
